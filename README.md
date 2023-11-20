@@ -2,7 +2,7 @@
 
 
 
-I integrated several networking concepts, such as Open Shortest Path First (OSPF), Dyanmic Host Configuration Protocol (DHCP), Subnetting, IP Addressing, Secure Shell (SSH), Network Address Translations (NAT), Virtual Local Area Network (VLAN), Inter-VLAN routing, Layer 3 Switches, Port-Security and others, in a small networking project that was based on a case study.
+I integrated several networking concepts, such as Open Shortest Path First (OSPF), Dynamic Host Configuration Protocol (DHCP), Subnetting, IP Addressing, Secure Shell (SSH), Network Address Translations (NAT), Virtual Local Area Network (VLAN), Inter-VLAN routing, Layer 3 Switches, Port-Security and others, in a small networking project that was based on a case study.
 
 
 
@@ -54,7 +54,7 @@ Requirements :
 
 
 
-2) Use hierchical model providing redundancy at every layer i.e. two routers and two multilayer switches are expected to be used to provide redundancy.
+2) Use hierarchical model providing redundancy at every layer i.e. two routers and two multilayer switches are expected to be used to provide redundancy.
 
 
 
@@ -66,7 +66,7 @@ Requirements :
 
 
 
-4) Each department is required to have a wireless netwrok for the users.
+4) Each department is required to have a wireless network for the users.
 
 
 
